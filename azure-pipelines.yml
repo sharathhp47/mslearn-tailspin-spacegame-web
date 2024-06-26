@@ -1,3 +1,3 @@
-pool: default
+pool: Azure Pipelines
 steps:
 - bash: echo hello world
